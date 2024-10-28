@@ -51,7 +51,7 @@ main.py:
 - sendRequestForFile(): Sends a file request message to all known peers.
 - sendForDiscovery(): Periodically sends a discovery message to find other peers on the network.
 - discover(): Updates the list of known peers based on discovery messages.
-## Example
+## How to run
 Start multiple instances of main.py on different terminals with different node names.
 Each node will periodically discover other nodes.
 To request a file, enter the file name when prompted in one node's terminal.
