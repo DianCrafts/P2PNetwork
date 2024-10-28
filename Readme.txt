@@ -1,1 +1,0 @@
-This project is for 2020 for "computer networks" course demonstrating P2P architecture.
